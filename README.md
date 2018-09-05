@@ -11,7 +11,7 @@ Jianlong Chang (jianlong.chang@nlpr.ia.ac.cn)
 
 # Bibtex
 
-@InProceedings{Chang_2017_ICCV,
+@InProceedings{Chang_2018_NIPS,
 
 author = {Chang, Jianlong and Gu, jie and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
 
