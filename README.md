@@ -12,13 +12,8 @@ Jianlong Chang (jianlong.chang@nlpr.ia.ac.cn)
 # Bibtex
 
 @InProceedings{Chang_2018_NIPS,
-
-author = {Chang, Jianlong and Gu, jie and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
-
+author = {Chang, Jianlong and Gu, Jie and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
 title = {Structure-Aware Convolutional Neural Networks},
-
 booktitle = {Advances in Neural Information Processing Systems 32 (NIPS 2018)},
-
 year = {2018}
-
 }
