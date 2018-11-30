@@ -17,7 +17,7 @@ author = {Chang, Jianlong and Gu, Jie and Wang, Lingfeng and Meng, Gaofeng and X
 
 title = {Structure-Aware Convolutional Neural Networks},
 
-booktitle = {Advances in Neural Information Processing Systems 32 (NIPS 2018)},
+booktitle = {Advances in Neural Information Processing Systems 32 (NeurIPS 2018)},
 
 year = {2018}
 }
