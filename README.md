@@ -1,6 +1,6 @@
 # Structure-Aware Convolutional Neural Networks
 
-32nd Conference on Neural Information Processing Systems (NIPS 2018)
+32nd Conference on Neural Information Processing Systems (NeurIPS 2018)
 
 Please wait for the core code.
 
