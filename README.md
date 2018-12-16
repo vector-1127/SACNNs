@@ -16,7 +16,7 @@ Traffic results
 
 # Bibtex
 ```
-@InProceedings{Chang_2018_NIPS,
+@InProceedings{Chang_2018_NeurIPS,
 author = {Chang, Jianlong and Gu, Jie and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
 title = {Structure-Aware Convolutional Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems 32 (NeurIPS 2018)},
