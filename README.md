@@ -9,6 +9,11 @@ Keras 2.0.5 + Tensorflow 1.3.0
 Jianlong Chang (jianlong.chang@nlpr.ia.ac.cn)
 
 
+# Results visualization
+Traffic results
+
+![](Results_visualization/NeurIPS_traffic.gif)
+
 # Bibtex
 
 @InProceedings{Chang_2018_NIPS,
